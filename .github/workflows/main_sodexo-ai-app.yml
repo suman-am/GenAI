@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'Sodexo-AI-App'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C30305C96DAD4A2B9A5EA3C45241C53E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_58CFB1E12A5E41B98E87D47489A4BF0C }}
